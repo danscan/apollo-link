@@ -56,7 +56,14 @@
     "mocha": "^3.2.0",
     "remap-istanbul": "^0.9.0",
     "rimraf": "^2.5.4",
+<<<<<<< a662d65cb6adfe2ed1e200d99f28e4c7455f8a03
     "sinon": "3.2.0",
+||||||| merged common ancestors
+    "sinon": "^2.3.4",
+=======
+    "rollup": "^0.45.2",
+    "sinon": "^2.3.4",
+>>>>>>> start transition to rollup
     "source-map-support": "^0.4.5",
     "tslint": "^5.0.0",
     "typescript": "^2.2.1"
